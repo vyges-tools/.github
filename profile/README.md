@@ -24,6 +24,7 @@ Loom is a suite of fast, deterministic, **local** sign-off engines that share on
 
 More engines (CDC, glitch, LEC, layout, geometry, remap, structured events) live across the org — browse the [repository list](https://github.com/orgs/vyges-tools/repositories).
 
+- **See it run** → the [AI-driven sign-off dashboard](https://vyges.github.io/vyges-loom-testbench/): a stock, general-purpose LLM drives the real Loom engines through `vyges mcp`, picking each tool and forming its arguments from the engine descriptors alone.
 - Product page: <https://vyges.com/products/loom>
 
 ## EDA tool distros
@@ -54,6 +55,7 @@ vyges-tools is operated by **TrustStix Inc** (California, USA — C Corporation)
 - Main site: <https://vyges.com>
 - Products: <https://vyges.com/products>
 - Loom: <https://vyges.com/products/loom>
+- Loom testbench (live): <https://vyges.github.io/vyges-loom-testbench/>
 - VyCatalog: <https://vyges.com/products/vycatalog>
 - Docs: <https://docs.vyges.com>
 - Contact: <https://vyges.com/contact>

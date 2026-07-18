@@ -2,6 +2,8 @@
 
 **Open, reproducible, local-first silicon tooling — the EDA toolchain, sign-off engines, and open PDKs behind Vyges™.**
 
+[![Sponsor Vyges](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=githubsponsors&logoColor=white&style=for-the-badge)](https://github.com/sponsors/vyges-ip)
+
 vyges-tools is the home for the tooling that turns RTL into silicon: the Vyges command-line interface, the **Loom** open EDA sign-off suite, reproducible from-source builds of the open-source EDA tools, and a tool-agnostic catalog of open process design kits. Everything here runs **on your machine** — no cloud lock-in, no per-seat licenses — and is **pinned** so a build today reproduces the same result tomorrow.
 
 ## Vyges CLI
@@ -59,3 +61,4 @@ vyges-tools is operated by **TrustStix Inc** (California, USA — C Corporation)
 - VyCatalog: <https://vyges.com/products/vycatalog>
 - Docs: <https://docs.vyges.com>
 - Contact: <https://vyges.com/contact>
+- Sponsor: <https://github.com/sponsors/vyges-ip>
